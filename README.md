@@ -9,5 +9,7 @@
     a-linguagem.php - Conhecendo um pocuo da linguagem
     
     a-linguagem2.php - Conhecendo mais um pouco de algumas funções
+    
+    arquivo_auxiliar-a-linguagem2.php - Um pequeno arquivo para função de include e require da aula a-linguagem2.php
 
     array.php - Array e funções especiais
