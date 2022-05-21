@@ -4,12 +4,14 @@
  
   Documento com exemplos, basta abrir o documento e ver os exemplos, acompanhando pelos comentários
   
-    a-analise-visão-geral.php - já com algumas funções e variáveis
+    1 - a-analise-visão-geral.php - já com algumas funções e variáveis
     
-    a-linguagem.php - Conhecendo um pocuo da linguagem
+    2 - a-linguagem.php - Conhecendo um pocuo da linguagem
     
-    a-linguagem2.php - Conhecendo mais um pouco de algumas funções
+    3 - a-linguagem2.php - Conhecendo mais um pouco de algumas funções
     
-    arquivo_auxiliar-a-linguagem2.php - Um pequeno arquivo para função de include e require da aula a-linguagem2.php
+    4 - arquivo_auxiliar-a-linguagem2.php - Um pequeno arquivo para função de include e require da aula a-linguagem2.php
 
-    array.php - Array e funções especiais
+    5 - array.php - Array e funções especiais
+    
+    6 - datas.php - Datas e funções especiais
